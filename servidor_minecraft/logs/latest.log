@@ -583,3 +583,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [22Jul2024 19:51:26.359] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c0bd8e7[id=<null>,name=IIsmann,properties={},legacy=false] (/127.241.149.44:45177) lost connection: Disconnected
 [22Jul2024 19:51:58.259] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ea42681[id=<null>,name=IIsmann,properties={},legacy=false] (/127.241.149.44:46855) lost connection: Disconnected
 [22Jul2024 19:52:16.315] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@513562fb[id=<null>,name=IIsmann,properties={},legacy=false] (/127.241.149.44:37695) lost connection: Disconnected
+[22Jul2024 19:55:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Sweet Dreams]
+[22Jul2024 19:55:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JiameV a server operator
+[22Jul2024 19:55:55.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Set own game mode to Creative Mode]
+[22Jul2024 19:55:59.359] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52578bd[id=<null>,name=IIsmann,properties={},legacy=false] (/127.241.149.44:42001) lost connection: Disconnected
+[22Jul2024 19:56:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Gamerule playersSleepingPercentage is now set to: 1]
+[22Jul2024 19:59:53.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV lost connection: Disconnected
+[22Jul2024 19:59:53.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV left the game
+[22Jul2024 20:00:33.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e2a9a67[id=<null>,name=JiameV,properties={},legacy=false] (/127.219.180.204:43983) lost connection: Disconnected
