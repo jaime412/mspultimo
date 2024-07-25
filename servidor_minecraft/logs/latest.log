@@ -449,3 +449,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [25Jul2024 00:36:56.250] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [25Jul2024 00:36:56.251] [Server thread/INFO] [Jade/]: Syncing config to JiameV (43d79b3e-4afa-37fb-a395-aac4dcd856c6)
 [25Jul2024 00:37:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [How'd You Get This?]
+[25Jul2024 00:39:32.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DetCrow[/127.169.109.98:49901] logged in with entity id 3857 at (2.5, 87.0, 4.5)
+[25Jul2024 00:39:32.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow joined the game
+[25Jul2024 00:39:32.093] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[25Jul2024 00:39:32.101] [Server thread/INFO] [Jade/]: Syncing config to DetCrow (2fd59010-7ca2-33b1-bf35-d536c4749313)
+[25Jul2024 00:39:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow has made the advancement [Ice and Fire]
+[25Jul2024 00:39:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> como va.
+[25Jul2024 00:39:50.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to DetCrow]
+[25Jul2024 00:40:02.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> este me va 30 ms menos ami
+[25Jul2024 00:40:02.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DetCrow lost connection: Timed out
+[25Jul2024 00:40:02.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow left the game
+[25Jul2024 00:42:42.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DetCrow[/127.169.109.98:55097] logged in with entity id 5646 at (2.5, 87.0, 4.5)
+[25Jul2024 00:42:42.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow joined the game
+[25Jul2024 00:42:42.337] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[25Jul2024 00:42:42.339] [Server thread/INFO] [Jade/]: Syncing config to DetCrow (2fd59010-7ca2-33b1-bf35-d536c4749313)
+[25Jul2024 00:43:42.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DetCrow lost connection: Disconnected
+[25Jul2024 00:43:42.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow left the game
+[25Jul2024 00:44:22.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DetCrow[/127.169.109.98:32843] logged in with entity id 6854 at (2.5, 87.0, 4.5)
+[25Jul2024 00:44:22.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow joined the game
+[25Jul2024 00:44:22.480] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[25Jul2024 00:44:22.481] [Server thread/INFO] [Jade/]: Syncing config to DetCrow (2fd59010-7ca2-33b1-bf35-d536c4749313)
+[25Jul2024 00:44:33.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV lost connection: Disconnected
+[25Jul2024 00:44:33.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV left the game
+[25Jul2024 00:44:52.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DetCrow lost connection: Timed out
+[25Jul2024 00:44:52.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DetCrow left the game
