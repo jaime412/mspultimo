@@ -6193,3 +6193,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 18:31:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Warden
 [01Aug2024 18:31:13.038] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
 [01Aug2024 18:31:13.045] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 18:31:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Warden
+[01Aug2024 18:31:18.957] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:183, y:-49, z:55, dim:minecraft:overworld]
+[01Aug2024 18:31:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann was slain by Wendigo
+[01Aug2024 18:31:29.341] [Server thread/DEBUG] [tombstone/]: A new grave of the player IIsmann was created at position [x:-221, y:63, z:-147, dim:minecraft:overworld]
+[01Aug2024 18:31:32.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Warden
+[01Aug2024 18:31:32.381] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 18:31:32.394] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 18:31:38.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Warden
+[01Aug2024 18:31:38.348] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:179, y:-49, z:56, dim:minecraft:overworld]
+[01Aug2024 18:31:49.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 18:31:49.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 18:32:39.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:33:08.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> isman estoy en tu tumba.
+[01Aug2024 18:35:05.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:36:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Bloodthirsty]
+[01Aug2024 18:36:49.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 18:36:49.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 18:38:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Begun, The Emu War Has]
+[01Aug2024 18:38:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [It's an Emu!!!]
+[01Aug2024 18:39:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was killed
+[01Aug2024 18:39:16.351] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 18:39:16.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Killed JiameV]
+[01Aug2024 18:39:16.353] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 18:39:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was killed
+[01Aug2024 18:39:22.699] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-295, y:70, z:-163, dim:minecraft:overworld]
