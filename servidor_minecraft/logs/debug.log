@@ -6517,3 +6517,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 19:21:49.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Aug2024 19:21:57.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Mine? Mine? Mine?]
 [01Aug2024 19:22:08.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> ME ROBARON MI CARNE DE KANGURO
+[01Aug2024 19:22:14.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a casa
+[01Aug2024 19:22:24.526] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:22:24.527] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:22:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> XD
+[01Aug2024 19:23:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> YA VENGO
+[01Aug2024 19:23:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> asd
+[01Aug2024 19:23:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Who You Gonna Call?]
+[01Aug2024 19:23:36.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann is bleeding. IIsmann was slain by Ghost
+[01Aug2024 19:23:36.446] [Server thread/WARN] [tombstone/]: The death event of the player IIsmann was canceled by another mod
+[01Aug2024 19:23:36.458] [Server thread/INFO] [tombstone/]: The player IIsmann has successfully been saved
+[01Aug2024 19:23:43.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> encontre uin desierto rosa
+[01Aug2024 19:23:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> tp¡
+[01Aug2024 19:23:45.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> simio tepe...
+[01Aug2024 19:23:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> ?
+[01Aug2024 19:23:49.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported IIsmann to JiameV]
+[01Aug2024 19:24:01.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> vengo ahoerita
+[01Aug2024 19:24:02.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IIsmann lost connection: Disconnected
+[01Aug2024 19:24:02.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann left the game
+[01Aug2024 19:24:02.335] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2024 19:25:18.454] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:25:20.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV moved too quickly! -8.590304541475689,-0.04353562014750878,5.678353346802851
+[01Aug2024 19:25:20.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[01Aug2024 19:26:06.509] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:26:06.509] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:26:06.747] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:26:11.388] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:26:11.738] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:26:11.738] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:26:51.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 19:26:51.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 19:27:32.547] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:27:32.548] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:27:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Voluntary Exile]
+[01Aug2024 19:27:59.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Fortuitous Militia]
+[01Aug2024 19:28:35.779] [Server thread/WARN] [spawnermod/]: Key=iceandfire:myrmex_worker was not found when trying to access it! Returning 0
+[01Aug2024 19:30:11.323] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:30:35.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV lost connection: Disconnected
+[01Aug2024 19:30:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV left the game
+[01Aug2024 19:31:51.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 19:31:51.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 19:32:16.796] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[01Aug2024 19:32:16.826] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[01Aug2024 19:32:16.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Aug2024 19:32:16.926] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[01Aug2024 19:32:16.976] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 3
+[01Aug2024 19:32:17.026] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 4
+[01Aug2024 19:32:17.076] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 5
+[01Aug2024 19:32:17.125] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 6
+[01Aug2024 19:32:17.175] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 7
+[01Aug2024 19:32:17.225] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aoa3:abilities' to 'fml:handshake' sequence 8
+[01Aug2024 19:32:17.276] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 9
+[01Aug2024 19:32:17.325] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aoa3:resources' to 'fml:handshake' sequence 10
+[01Aug2024 19:32:17.376] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:aptitudes' to 'fml:handshake' sequence 11
+[01Aug2024 19:32:17.425] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 12
+[01Aug2024 19:32:17.476] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 13
+[01Aug2024 19:32:17.526] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:skills' to 'fml:handshake' sequence 14
+[01Aug2024 19:32:17.575] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 15
+[01Aug2024 19:32:17.625] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 16
+[01Aug2024 19:32:17.676] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 17
+[01Aug2024 19:32:17.726] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 18
+[01Aug2024 19:32:17.776] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 19
+[01Aug2024 19:32:17.826] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:titles' to 'fml:handshake' sequence 20
+[01Aug2024 19:32:17.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 21
+[01Aug2024 19:32:17.925] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 22
+[01Aug2024 19:32:17.975] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:passives' to 'fml:handshake' sequence 23
+[01Aug2024 19:32:18.026] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 24
+[01Aug2024 19:32:18.075] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 25
+[01Aug2024 19:32:18.125] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 26
+[01Aug2024 19:32:18.175] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 27
+[01Aug2024 19:32:18.225] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aoa3:skills' to 'fml:handshake' sequence 28
+[01Aug2024 19:32:18.275] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config configurablecane-server.toml' to 'fml:handshake' sequence 29
+[01Aug2024 19:32:18.325] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 30
+[01Aug2024 19:32:18.376] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 31
+[01Aug2024 19:32:18.425] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 32
+[01Aug2024 19:32:18.475] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[01Aug2024 19:32:18.525] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aoa3_server_config.toml' to 'fml:handshake' sequence 34
+[01Aug2024 19:32:18.575] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 35
