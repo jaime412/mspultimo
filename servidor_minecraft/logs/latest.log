@@ -1533,3 +1533,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 21:04:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> tio yo tenia
 [01Aug2024 21:04:07.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> y las tire
 [01Aug2024 21:04:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> estoy llorano
+[01Aug2024 21:04:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> se puede hacer sendo casco
+[01Aug2024 21:04:31.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> si tio
+[01Aug2024 21:04:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> tengo todo
+[01Aug2024 21:04:35.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> me falta eso
+[01Aug2024 21:05:02.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> agarra las patatas que queden
+[01Aug2024 21:05:06.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> ya agarre 1 stack
+[01Aug2024 21:07:11.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IIsmann: Teleported IIsmann to JiameV]
+[01Aug2024 21:07:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> azul
+[01Aug2024 21:07:25.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> santo
+[01Aug2024 21:07:46.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Melonie the Mighty'/197451, l='ServerLevel[world]', x=-2480.70, y=71.00, z=2184.21] died: Melonie the Mighty was slain by JiameV
+[01Aug2024 21:07:47.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has completed the challenge [He Wasn't So Strong]
+[01Aug2024 21:07:48.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> pura basura
+[01Aug2024 21:08:16.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> voy a minar redstone
+[01Aug2024 21:08:59.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IIsmann: Teleported IIsmann to JiameV]
+[01Aug2024 21:09:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> asd
+[01Aug2024 21:09:09.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV lost connection: Timed out
+[01Aug2024 21:09:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV left the game
+[01Aug2024 21:09:29.985] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70a51fe2[id=<null>,name=JiameV,properties={},legacy=false] (/127.219.180.204:59109) lost connection: Disconnected
+[01Aug2024 21:10:11.691] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71ab06b8[id=<null>,name=JiameV,properties={},legacy=false] (/127.219.180.204:52729) lost connection: Disconnected
+[01Aug2024 21:10:27.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JiameV[/127.219.180.204:57955] logged in with entity id 199176 at (-2425.1012884575316, 71.0, 2078.699999988079)
+[01Aug2024 21:10:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV joined the game
+[01Aug2024 21:10:27.180] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[01Aug2024 21:10:27.181] [Server thread/INFO] [Jade/]: Syncing config to JiameV (43d79b3e-4afa-37fb-a395-aac4dcd856c6)
+[01Aug2024 21:10:37.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a tya
+[01Aug2024 21:11:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was doomed to fall by IIsmann
+[01Aug2024 21:11:15.201] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 21:11:15.204] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 21:11:18.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IIsmann: Teleported IIsmann to JiameV]
+[01Aug2024 21:11:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> perro
+[01Aug2024 21:12:52.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Diamonds!]
+[01Aug2024 21:13:58.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> nivel 12
+[01Aug2024 21:14:00.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a pastar
