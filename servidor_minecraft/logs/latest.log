@@ -1216,3 +1216,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 20:01:32.441] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
 [01Aug2024 20:01:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Wendigo
 [01Aug2024 20:02:55.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Dark Metallurgy]
+[01Aug2024 20:03:30.340] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Aug2024 20:03:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Rigged from the Start]
+[01Aug2024 20:07:13.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [The Only Good Bug...]
+[01Aug2024 20:08:53.614] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:08:58.404] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:08:58.405] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
