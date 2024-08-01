@@ -6821,3 +6821,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 19:50:33.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Heads Up]
 [01Aug2024 19:51:51.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2024 19:51:51.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 19:56:51.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 19:56:51.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 19:59:08.948] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:59:11.908] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:59:11.909] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:59:29.765] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:59:29.765] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 19:59:34.647] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:01:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Big Boy]
+[01Aug2024 20:01:32.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Wendigo
+[01Aug2024 20:01:32.433] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 20:01:32.441] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 20:01:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Wendigo
+[01Aug2024 20:01:44.358] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-2645, y:70, z:1379, dim:minecraft:overworld]
+[01Aug2024 20:01:51.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 20:01:51.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 20:02:55.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Dark Metallurgy]
