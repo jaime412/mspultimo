@@ -1661,3 +1661,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 21:43:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann left the game
 [01Aug2024 21:43:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> me dice que soy bobo pa leer eso
 [01Aug2024 21:44:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [No Dust on You]
+[01Aug2024 21:47:22.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/219027, l='ServerLevel[world]', x=-2468.26, y=120.67, z=2377.51] died: Honeyed Archer burned to death
