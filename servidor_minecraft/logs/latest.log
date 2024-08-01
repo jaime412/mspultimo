@@ -447,3 +447,79 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 02:46:53.630] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [01Aug2024 02:46:53.632] [Server thread/INFO] [Jade/]: Syncing config to JiameV (43d79b3e-4afa-37fb-a395-aac4dcd856c6)
 [01Aug2024 02:47:08.648] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f27b288[id=<null>,name=IIsmann,properties={},legacy=false] (/127.189.83.136:41947) lost connection: Disconnected
+[01Aug2024 02:49:50.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IIsmann[/127.189.83.136:52959] logged in with entity id 4830 at (5.5, 92.0, -3.5)
+[01Aug2024 02:49:50.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann joined the game
+[01Aug2024 02:49:50.479] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[01Aug2024 02:49:50.489] [Server thread/INFO] [Jade/]: Syncing config to IIsmann (b3ee6caf-4e0d-3e92-a5e5-c4f9c985bb24)
+[01Aug2024 02:49:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Ice and Fire]
+[01Aug2024 02:50:03.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> y este payaso
+[01Aug2024 02:50:07.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported IIsmann to JiameV]
+[01Aug2024 02:50:15.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> dale a somewhere
+[01Aug2024 02:50:26.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> aqui no habran ayudas de negreira ni un spawn con comida infinita
+[01Aug2024 02:50:37.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> aqui jugamos serio nojoda
+[01Aug2024 02:52:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> asd
+[01Aug2024 02:52:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> y este payaso
+[01Aug2024 02:52:30.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> payaso
+[01Aug2024 02:52:37.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> creo que hasta se puede poner chat de oz
+[01Aug2024 02:52:40.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> voz
+[01Aug2024 02:52:41.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> mira
+[01Aug2024 02:52:44.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> como
+[01Aug2024 02:52:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> esto consegui de esta casa
+[01Aug2024 02:52:47.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> como lo pongo
+[01Aug2024 02:52:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> JUMM
+[01Aug2024 02:52:54.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> dije que se puede poner
+[01Aug2024 02:52:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> mas raro
+[01Aug2024 02:52:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no que haya puesto
+[01Aug2024 02:53:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Not a Diamond]
+[01Aug2024 02:53:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> agarra algas
+[01Aug2024 02:53:17.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> sirven como carbon
+[01Aug2024 02:53:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Far From Perfect]
+[01Aug2024 02:53:22.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Acquire Hardware]
+[01Aug2024 02:53:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> hey esa vaina q
+[01Aug2024 02:54:00.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> que cosa
+[01Aug2024 02:54:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> hay una escalera
+[01Aug2024 02:54:09.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a
+[01Aug2024 02:54:12.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> es un dirigible
+[01Aug2024 02:54:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> hay enemigos
+[01Aug2024 02:54:16.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no te recomiendo subir+
+[01Aug2024 02:54:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Isn't It Iron Pick]
+[01Aug2024 02:54:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> ya con pico de hierrot
+[01Aug2024 02:54:50.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> nojoda y no me deja usar pico de hierro
+[01Aug2024 02:54:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> que falta de respeto
+[01Aug2024 02:54:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> dale a la y
+[01Aug2024 02:54:58.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Stone Age]
+[01Aug2024 02:54:59.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> necesitas subir primero
+[01Aug2024 02:55:26.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 02:55:27.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Getting an Upgrade]
+[01Aug2024 02:55:33.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> presta piedra pe
+[01Aug2024 02:55:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Getting an Upgrade]
+[01Aug2024 02:55:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Stone Age]
+[01Aug2024 02:55:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a la y es el arbol de niveles
+[01Aug2024 02:55:58.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> te da algunas pasivas
+[01Aug2024 02:56:01.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> pero nada exagerado
+[01Aug2024 02:56:02.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> toca subir primero el de minar
+[01Aug2024 02:56:30.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> cual es el de minar JAJAJA
+[01Aug2024 02:56:34.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> el martillo
+[01Aug2024 02:56:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a
+[01Aug2024 02:56:51.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> supongo q solo minando nos daran xp
+[01Aug2024 02:57:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> santa cueva
+[01Aug2024 02:57:18.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> se ve maal
+[01Aug2024 02:57:20.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> mala
+[01Aug2024 02:57:27.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> POLLLILTA
+[01Aug2024 02:57:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> como
+[01Aug2024 02:57:36.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> si es un pajaro
+[01Aug2024 02:57:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> es agresivo
+[01Aug2024 02:57:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> uno amarillo chikito
+[01Aug2024 02:57:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Knowledge of Death]
+[01Aug2024 02:57:57.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Neighborhood Brawl]
+[01Aug2024 02:58:08.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> es pollita
+[01Aug2024 02:58:16.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Knowledge raises the soul]
+[01Aug2024 02:58:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> si haces cosas como correr
+[01Aug2024 02:58:35.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> tambien te dan pasivas
+[01Aug2024 02:58:37.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> pero del advent
+[01Aug2024 02:58:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> mas pasivas que bee,
+[01Aug2024 02:58:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> REAL
+[01Aug2024 02:58:55.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> asd
+[01Aug2024 02:59:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Made IIsmann a server operator]
+[01Aug2024 02:59:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no dejes que te pege pollita
+[01Aug2024 02:59:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> quiero encerrar a uno de esos y nombrarlo pollita.
