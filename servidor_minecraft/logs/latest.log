@@ -1631,3 +1631,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 21:33:10.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IIsmann: Teleported IIsmann to JiameV]
 [01Aug2024 21:34:29.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IIsmann: Teleported IIsmann to JiameV]
 [01Aug2024 21:34:53.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Doctor Don the Unholy'/215507, l='ServerLevel[world]', x=-2504.08, y=-3.00, z=1944.66] died: Doctor Don the Unholy was slain by JiameV
+[01Aug2024 21:35:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 21:35:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Deceived Hopes]
+[01Aug2024 21:36:02.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> mira
+[01Aug2024 21:36:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a esa
+[01Aug2024 21:36:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> hace 17
+[01Aug2024 21:36:08.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> ataca lento
+[01Aug2024 21:36:19.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> yo tengo una de esas pero no me gusta
+[01Aug2024 21:36:59.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV lost connection: Timed out
+[01Aug2024 21:36:59.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV left the game
+[01Aug2024 21:37:22.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JiameV[/127.219.180.204:41173] logged in with entity id 218005 at (-2403.8146811435727, -49.0, 2033.1318386449925)
+[01Aug2024 21:37:22.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV joined the game
+[01Aug2024 21:37:22.840] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[01Aug2024 21:37:22.841] [Server thread/INFO] [Jade/]: Syncing config to JiameV (43d79b3e-4afa-37fb-a395-aac4dcd856c6)
+[01Aug2024 21:39:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 21:39:18.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> pirfin salimos de ese moridero
+[01Aug2024 21:40:07.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> por fin bae
+[01Aug2024 21:40:17.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> base
+[01Aug2024 21:40:38.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> tenemos una maldicionde heusos
+[01Aug2024 21:40:41.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> ni un libro bueo
+[01Aug2024 21:40:44.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> XD
+[01Aug2024 21:41:22.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> falta hierro
+[01Aug2024 21:41:24.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> grr
+[01Aug2024 21:41:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[01Aug2024 21:42:51.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> si te hara tp haz
+[01Aug2024 21:42:54.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> pq ya me voya salir
+[01Aug2024 21:42:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 21:43:15.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IIsmann lost connection: Disconnected
+[01Aug2024 21:43:15.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann left the game
+[01Aug2024 21:43:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> me dice que soy bobo pa leer eso
+[01Aug2024 21:44:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [No Dust on You]
