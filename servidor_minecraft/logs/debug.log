@@ -6815,3 +6815,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 19:38:40.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Die Classy]
 [01Aug2024 19:41:51.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2024 19:41:51.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 19:46:51.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 19:46:51.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 19:48:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Sick Burn]
+[01Aug2024 19:50:33.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Heads Up]
+[01Aug2024 19:51:51.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 19:51:51.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

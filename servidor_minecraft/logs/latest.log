@@ -1202,3 +1202,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 19:34:11.707] [Server thread/INFO] [Jade/]: Syncing config to JiameV (43d79b3e-4afa-37fb-a395-aac4dcd856c6)
 [01Aug2024 19:36:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has completed the challenge [Village Defender]
 [01Aug2024 19:38:40.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Die Classy]
+[01Aug2024 19:48:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Sick Burn]
+[01Aug2024 19:50:33.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Heads Up]
