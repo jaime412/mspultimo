@@ -8034,3 +8034,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 21:47:22.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/219027, l='ServerLevel[world]', x=-2468.26, y=120.67, z=2377.51] died: Honeyed Archer burned to death
 [01Aug2024 21:51:57.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2024 21:51:57.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 21:56:57.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 21:56:57.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 21:57:52.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Stopping the server]
+[01Aug2024 21:57:52.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Aug2024 21:57:52.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Aug2024 21:57:52.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Aug2024 21:57:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Aug2024 21:57:58.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:deeplands
+[01Aug2024 21:57:58.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01Aug2024 21:57:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Aug2024 21:57:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:nowhere
+[01Aug2024 21:57:58.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:worldtest_1
+[01Aug2024 21:57:58.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:precasia
+[01Aug2024 21:57:58.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:lelyetia
+[01Aug2024 21:57:58.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:barathos
+[01Aug2024 21:57:58.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Aug2024 21:57:58.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:precasia_backup
+[01Aug2024 21:57:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aoa3:lborean
+[01Aug2024 21:57:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/world:madnessdimension
+[01Aug2024 21:57:59.004] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 21:57:59.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 21:57:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Aug2024 21:57:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deeplands): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (nowhere): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (worldtest_1): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (precasia): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lelyetia): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (barathos): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (precasia_backup): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lborean): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madnessdimension): All chunks are saved
+[01Aug2024 21:57:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Aug2024 21:58:00.933] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[01Aug2024 21:58:00.935] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
