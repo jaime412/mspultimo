@@ -1195,3 +1195,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 19:30:11.323] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [01Aug2024 19:30:35.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JiameV lost connection: Disconnected
 [01Aug2024 19:30:35.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV left the game
+[01Aug2024 19:32:46.326] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ceff7cd[id=<null>,name=JiameV,properties={},legacy=false] (/127.219.180.204:43365) lost connection: Disconnected
+[01Aug2024 19:34:11.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JiameV[/127.219.180.204:41695] logged in with entity id 89004 at (-2248.6769529946164, 79.0, 801.751176764877)
+[01Aug2024 19:34:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV joined the game
+[01Aug2024 19:34:11.707] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[01Aug2024 19:34:11.707] [Server thread/INFO] [Jade/]: Syncing config to JiameV (43d79b3e-4afa-37fb-a395-aac4dcd856c6)
+[01Aug2024 19:36:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has completed the challenge [Village Defender]
+[01Aug2024 19:38:40.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Die Classy]
