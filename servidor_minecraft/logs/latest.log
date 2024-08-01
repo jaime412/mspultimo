@@ -1222,3 +1222,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 20:08:53.614] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [01Aug2024 20:08:58.404] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [01Aug2024 20:08:58.405] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:15:11.541] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:15:20.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Doctor Bella the Non-Suspicious'/111944, l='ServerLevel[world]', x=-2375.20, y=77.00, z=461.30] died: Doctor Bella the Non-Suspicious was slain by JiameV
+[01Aug2024 20:15:23.917] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:15:23.917] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:15:32.383] [Server thread/WARN] [spawnermod/]: Key=iceandfire:deathworm was not found when trying to access it! Returning 0
+[01Aug2024 20:17:19.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Not Today, Thank You]
+[01Aug2024 20:18:35.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Junior Summoner]
+[01Aug2024 20:18:46.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Piece of Chaos]
+[01Aug2024 20:19:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Bone Crusher]
+[01Aug2024 20:20:46.383] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:emu was not found when trying to access it! Returning 0
+[01Aug2024 20:20:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [No Step on Snake]
+[01Aug2024 20:21:14.538] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:21:51.850] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:21:51.851] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 20:22:21.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IIsmann[/127.189.83.136:42173] logged in with entity id 116715 at (-2147.0108169685773, 64.0, 562.8197751729186)
+[01Aug2024 20:22:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann joined the game
+[01Aug2024 20:22:21.989] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[01Aug2024 20:22:21.990] [Server thread/INFO] [Jade/]: Syncing config to IIsmann (b3ee6caf-4e0d-3e92-a5e5-c4f9c985bb24)
+[01Aug2024 20:22:38.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> not e emtas al desierto
+[01Aug2024 20:22:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> muy profundo
+[01Aug2024 20:22:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> hay un chingo de dragones
+[01Aug2024 20:22:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> :skull:
+[01Aug2024 20:23:12.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> sieqs
