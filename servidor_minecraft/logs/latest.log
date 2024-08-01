@@ -940,3 +940,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 18:51:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> ya se que hacer
 [01Aug2024 18:51:25.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> let me cook
 [01Aug2024 18:51:30.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> vamos hacer una casa
+[01Aug2024 18:52:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [First Steps]
+[01Aug2024 18:52:00.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Pet Inventory]
+[01Aug2024 18:52:15.864] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 18:52:21.805] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 18:52:21.805] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 18:52:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Pets Inventory]
+[01Aug2024 18:52:51.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Super Size Me]
+[01Aug2024 18:53:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> ya tenemos mochilas
+[01Aug2024 18:53:07.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> la cabra lo hizo.
+[01Aug2024 18:53:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:53:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:53:18.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Wendigo
+[01Aug2024 18:53:18.684] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 18:53:18.692] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 18:53:20.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> te odio
+[01Aug2024 18:53:21.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> maldito
+[01Aug2024 18:53:27.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Wendigo
+[01Aug2024 18:53:30.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> payaso
+[01Aug2024 18:53:34.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:53:40.462] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 18:53:52.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Wendigo
+[01Aug2024 18:53:52.035] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 18:53:52.045] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 18:53:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> no le hacen daño
+[01Aug2024 18:53:59.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> los proyectiles
+[01Aug2024 18:53:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Wendigo
+[01Aug2024 18:54:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:54:08.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Sweet Dreams]
+[01Aug2024 18:54:14.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 18:54:21.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> toma
+[01Aug2024 18:54:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> payaso
+[01Aug2024 18:54:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Super Size Me]
+[01Aug2024 18:54:33.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> COMO
+[01Aug2024 18:54:34.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> ROTISIMO ESTO
+[01Aug2024 18:54:38.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> te dije
+[01Aug2024 18:54:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> dejame cocinar
+[01Aug2024 18:54:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> piedra tienes?
+[01Aug2024 18:54:57.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> me gaste todos mis diamantes en eso
+[01Aug2024 18:55:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no tengo
+[01Aug2024 18:55:02.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> mira
+[01Aug2024 18:55:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> santos canguros
+[01Aug2024 18:55:15.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [We do a little trolling...]
+[01Aug2024 18:55:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [We do a little trolling...]
+[01Aug2024 18:55:22.096] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 18:55:22.096] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 18:55:43.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Ice Bucket Challenge]
+[01Aug2024 18:55:48.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> espra
+[01Aug2024 18:55:50.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> cocino comida
+[01Aug2024 18:56:13.233] [Server thread/WARN] [spawnermod/]: Key=iceandfire:myrmex_worker was not found when trying to access it! Returning 0
+[01Aug2024 18:56:29.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> hay una pet que te da comida
+[01Aug2024 18:56:32.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> o te aumenta la saturacion
+[01Aug2024 18:56:36.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> deja veo si tenemos para hacerla
+[01Aug2024 18:56:53.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> rotisimo
+[01Aug2024 18:57:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> lo malo
+[01Aug2024 18:57:36.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> es que necesitan comida
+[01Aug2024 18:57:43.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> la que hice es con diamantes asi que no necesita
+[01Aug2024 18:57:48.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> pero es la unica con la que se puede hacer eso
+[01Aug2024 18:57:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> las demas necesitan comida sino se mueren creo
+[01Aug2024 18:58:04.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> rotisimas las pets
+[01Aug2024 18:58:08.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> y si
+[01Aug2024 18:58:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> pera va correr mariana pajon
+[01Aug2024 18:59:08.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> como
+[01Aug2024 19:00:22.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> igual sigue siendo mejor las mochilas
+[01Aug2024 19:00:28.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> se les puede mejorar la capacidad
+[01Aug2024 19:00:40.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> y tiene mejoras de furnace
+[01Aug2024 19:01:23.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Who You Gonna Call?]
+[01Aug2024 19:01:25.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> vamos
