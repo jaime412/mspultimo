@@ -5753,3 +5753,136 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [01Aug2024 02:59:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Made IIsmann a server operator]
 [01Aug2024 02:59:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no dejes que te pege pollita
 [01Aug2024 02:59:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> quiero encerrar a uno de esos y nombrarlo pollita.
+[01Aug2024 02:59:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Bloodthirsty]
+[01Aug2024 02:59:54.730] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Aug2024 03:00:02.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from IIsmann: Location (-209.91495847702026, 68.6185165643692, 57.773467779159546) too far away from hit block BlockPos{x=-212, y=67, z=55}.
+[01Aug2024 03:00:02.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from IIsmann: Location (-209.91495847702026, 68.6185165643692, 57.773467779159546) too far away from hit block BlockPos{x=-212, y=67, z=55}.
+[01Aug2024 03:00:02.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from IIsmann: Location (-210.31654345989227, 68.61842560768127, 57.26673173904419) too far away from hit block BlockPos{x=-212, y=67, z=55}.
+[01Aug2024 03:00:02.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from IIsmann: Location (-210.31654345989227, 68.61842560768127, 57.26673173904419) too far away from hit block BlockPos{x=-212, y=67, z=55}.
+[01Aug2024 03:00:08.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> un jefe calabaza
+[01Aug2024 03:00:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> sabes que significa
+[01Aug2024 03:00:19.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> espera
+[01Aug2024 03:00:27.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> pon spawn.
+[01Aug2024 03:00:34.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> yo odio jugar asi... pero solo por esta vez...
+[01Aug2024 03:00:34.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 03:00:34.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 03:00:48.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Sir Pumpkinhead
+[01Aug2024 03:00:48.957] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:00:48.962] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:00:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Knowledge of Death]
+[01Aug2024 03:00:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Strong or Careful]
+[01Aug2024 03:00:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Sir Pumpkinhead
+[01Aug2024 03:00:54.925] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-171, y:73, z:90, dim:minecraft:overworld]
+[01Aug2024 03:00:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Your First Grave]
+[01Aug2024 03:00:57.354] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/entity/LivingEntity$Anonymous$0aaca1b4c97b41e4a0296805d5e5fdca (originally net/tslat/effectslib/mixin/common/LivingEntityMixin$1)
+[01Aug2024 03:00:59.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann is bleeding. IIsmann was slain by Sir Pumpkinhead
+[01Aug2024 03:00:59.298] [Server thread/WARN] [tombstone/]: The death event of the player IIsmann was canceled by another mod
+[01Aug2024 03:00:59.305] [Server thread/INFO] [tombstone/]: The player IIsmann has successfully been saved
+[01Aug2024 03:01:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Here They Come]
+[01Aug2024 03:01:06.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann was slain by Sir Pumpkinhead
+[01Aug2024 03:01:06.251] [Server thread/DEBUG] [tombstone/]: A new grave of the player IIsmann was created at position [x:-178, y:72, z:87, dim:minecraft:overworld]
+[01Aug2024 03:01:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Your First Grave]
+[01Aug2024 03:01:13.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has reached the goal [Here They Come]
+[01Aug2024 03:01:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Sir Pumpkinhead
+[01Aug2024 03:01:14.600] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:01:14.612] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:01:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Sir Pumpkinhead
+[01Aug2024 03:01:24.411] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-171, y:73, z:89, dim:minecraft:overworld]
+[01Aug2024 03:01:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann is bleeding. IIsmann was slain by Sir Pumpkinhead
+[01Aug2024 03:01:26.398] [Server thread/WARN] [tombstone/]: The death event of the player IIsmann was canceled by another mod
+[01Aug2024 03:01:26.409] [Server thread/INFO] [tombstone/]: The player IIsmann has successfully been saved
+[01Aug2024 03:01:32.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann was slain by Sir Pumpkinhead
+[01Aug2024 03:01:32.301] [Server thread/DEBUG] [tombstone/]: A new grave of the player IIsmann was created at position [x:-171, y:73, z:89, dim:minecraft:overworld]
+[01Aug2024 03:01:47.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Felsteed
+[01Aug2024 03:01:47.706] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:01:47.715] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:01:53.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Chain Death]
+[01Aug2024 03:01:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Felsteed
+[01Aug2024 03:01:53.656] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-154, y:74, z:98, dim:minecraft:overworld]
+[01Aug2024 03:02:06.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> NO
+[01Aug2024 03:02:08.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Not a Diamond]
+[01Aug2024 03:02:17.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann is bleeding. IIsmann was shot by Sir Pumpkinhead
+[01Aug2024 03:02:17.752] [Server thread/WARN] [tombstone/]: The death event of the player IIsmann was canceled by another mod
+[01Aug2024 03:02:17.757] [Server thread/INFO] [tombstone/]: The player IIsmann has successfully been saved
+[01Aug2024 03:02:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Wendigo
+[01Aug2024 03:02:20.048] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:02:20.054] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:02:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> un wendigo
+[01Aug2024 03:02:23.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has reached the goal [Chain Death]
+[01Aug2024 03:02:23.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann was shot by Sir Pumpkinhead
+[01Aug2024 03:02:23.703] [Server thread/DEBUG] [tombstone/]: A new grave of the player IIsmann was created at position [x:-150, y:74, z:98, dim:minecraft:overworld]
+[01Aug2024 03:02:25.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [The Most Useful Key]
+[01Aug2024 03:02:26.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> LA RATA
+[01Aug2024 03:02:30.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Wendigo
+[01Aug2024 03:02:30.505] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-169, y:74, z:96, dim:minecraft:overworld]
+[01Aug2024 03:03:17.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Jerky?]
+[01Aug2024 03:03:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann is bleeding. IIsmann was shot by Pumpkinhead
+[01Aug2024 03:03:19.549] [Server thread/WARN] [tombstone/]: The death event of the player IIsmann was canceled by another mod
+[01Aug2024 03:03:19.553] [Server thread/INFO] [tombstone/]: The player IIsmann has successfully been saved
+[01Aug2024 03:03:25.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Mr. Pumpkin
+[01Aug2024 03:03:25.097] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:03:25.104] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:03:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann was shot by Pumpkinhead
+[01Aug2024 03:03:25.603] [Server thread/DEBUG] [tombstone/]: A new grave of the player IIsmann was created at position [x:-97, y:63, z:119, dim:minecraft:overworld]
+[01Aug2024 03:03:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> la cabeza
+[01Aug2024 03:03:32.348] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:fly was not found when trying to access it! Returning 0
+[01Aug2024 03:03:32.501] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:fly was not found when trying to access it! Returning 0
+[01Aug2024 03:03:32.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Mr. Pumpkin
+[01Aug2024 03:03:32.711] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-104, y:61, z:121, dim:minecraft:overworld]
+[01Aug2024 03:04:09.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> esta rotiisima la cabez
+[01Aug2024 03:04:13.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has reached the goal [Pumpkin Sir]
+[01Aug2024 03:04:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> a pastar
+[01Aug2024 03:04:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has reached the goal [Worthy Equipment]
+[01Aug2024 03:04:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Apothic Affixes]
+[01Aug2024 03:04:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no solto el caballo el puto
+[01Aug2024 03:04:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Monster Hunter]
+[01Aug2024 03:04:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> eso necesita
+[01Aug2024 03:04:43.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> JAIME
+[01Aug2024 03:04:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> PATOS
+[01Aug2024 03:04:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> eso que tienes necesita semillas de calabza
+[01Aug2024 03:04:48.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> COMO
+[01Aug2024 03:04:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Captured!]
+[01Aug2024 03:05:07.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> vamos a la cama
+[01Aug2024 03:05:07.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> vamos a equiparnos
+[01Aug2024 03:05:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> COMOO
+[01Aug2024 03:05:12.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> JAIME
+[01Aug2024 03:05:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [First Blood]
+[01Aug2024 03:05:34.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2024 03:05:34.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2024 03:05:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Is this... blood?]
+[01Aug2024 03:05:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [First Blood]
+[01Aug2024 03:05:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [A Strange Grave Dust]
+[01Aug2024 03:06:03.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> me salio exactamente como la espada que tenia en el otro
+[01Aug2024 03:06:03.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> JAIME
+[01Aug2024 03:06:05.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> con filo 3 xd
+[01Aug2024 03:06:06.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> SON MUCHOS PATOS
+[01Aug2024 03:06:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> SANTISIMO
+[01Aug2024 03:07:08.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has reached the goal [Fighting Nightmares]
+[01Aug2024 03:07:13.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [How'd You Get This?]
+[01Aug2024 03:07:15.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann is bleeding. IIsmann drowned
+[01Aug2024 03:07:15.310] [Server thread/WARN] [tombstone/]: The death event of the player IIsmann was canceled by another mod
+[01Aug2024 03:07:15.328] [Server thread/INFO] [tombstone/]: The player IIsmann has successfully been saved
+[01Aug2024 03:07:23.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV has made the advancement [Ashes 'n Bones]
+[01Aug2024 03:07:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann drowned
+[01Aug2024 03:07:31.556] [Server thread/DEBUG] [tombstone/]: A new grave of the player IIsmann was created at position [x:-123, y:63, z:123, dim:minecraft:overworld]
+[01Aug2024 03:07:42.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIsmann> MUCHOS PATOS
+[01Aug2024 03:07:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> SE ME ACABO LA COMIDA
+[01Aug2024 03:08:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> TENGO LA PESTE
+[01Aug2024 03:08:25.349] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:fly was not found when trying to access it! Returning 0
+[01Aug2024 03:08:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIsmann has made the advancement [Dark Metallurgy]
+[01Aug2024 03:08:38.351] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:fly was not found when trying to access it! Returning 0
+[01Aug2024 03:08:44.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was slain by Chort
+[01Aug2024 03:08:44.152] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:08:44.159] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:08:50.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV was slain by Chort
+[01Aug2024 03:08:50.272] [Server thread/DEBUG] [tombstone/]: A new grave of the player JiameV was created at position [x:-169, y:73, z:90, dim:minecraft:overworld]
+[01Aug2024 03:09:13.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JiameV: Teleported JiameV to IIsmann]
+[01Aug2024 03:09:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was shot by Archer Duck
+[01Aug2024 03:09:27.502] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:09:27.506] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
+[01Aug2024 03:09:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> porfin
+[01Aug2024 03:09:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> muero
+[01Aug2024 03:09:46.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JiameV> no me revivas
+[01Aug2024 03:09:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JiameV is bleeding. JiameV was scorched to death
+[01Aug2024 03:09:49.763] [Server thread/WARN] [tombstone/]: The death event of the player JiameV was canceled by another mod
+[01Aug2024 03:09:49.789] [Server thread/INFO] [tombstone/]: The player JiameV has successfully been saved
